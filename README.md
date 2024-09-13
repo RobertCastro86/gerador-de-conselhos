@@ -24,7 +24,7 @@
 
 <div align="left">
   <a href="design/desktop-preview.jpg">
-    <img height="180em" src="design/card-desktop.JPG"/>
+    <img height="180em" src="design/desktop-preview.jpg"/>
 </div>
 
 
