@@ -23,7 +23,7 @@
 ## Layout esperado para desktop:
 
 <div align="left">
-  <a href="https://github.com/RobertCastro86">
+  <a href="design/desktop-preview.jpg">
     <img height="180em" src="design/card-desktop.JPG"/>
 </div>
 
