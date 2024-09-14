@@ -23,7 +23,7 @@
 ## Layout esperado para desktop:
 
 <div align="left">
-  <a href="design/desktop-preview.jpg">
+  <a href="https://github.com/RobertCastro86">
     <img height="180em" src="design/active-states.jpg"/>
 </div>
 
@@ -33,5 +33,5 @@
 
 <div align="left">
   <a href="https://github.com/RobertCastro86">
-    <img height="180em" src="design/card-mobile.JPG"/>
+    <img height="180em" src="design/mobile-design.jpg"/>
 </div>
