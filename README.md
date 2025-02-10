@@ -1,4 +1,4 @@
-## <h1>Exercício HTML + CSS Avançado 2 - Gerador de conselhos</h1>
+## <h1>Exercício HTML + CSS + Javacript  - Gerador de conselhos</h1>
 
 <br>
 
@@ -18,6 +18,8 @@
 
 `- HTML5`
 `- CSS3`
+`- Javascript`
+`- Advice Slip API`
 `- FontAwesome`
 
 ## Layout esperado para desktop:
